@@ -1,0 +1,8 @@
+[submodule "SDL2"]
+	path = SDL2
+	url = https://github.com/libsdl-org/SDL
+	branch = SDL2
+[submodule "SFML"]
+	path = SFML
+	url = https://github.com/SFML/SFML
+	branch = master
