@@ -1,4 +1,6 @@
-# Konkr Programmation Avancée
+![Logo de Rkonk](assets/sprites/Menu_Logo.png)
+
+**Rkonk** est une recréation en C++ du jeu de stratégie Konkr, réalisée dans le cadre du cours de Programmation Avancée en master.
 
 
 # Dépendances externes
